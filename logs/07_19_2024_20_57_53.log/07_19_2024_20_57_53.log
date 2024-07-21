@@ -1,0 +1,7 @@
+[ 2024-07-19 20:57:54,824 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-19 20:57:54,858 ] 97 werkzeug - INFO -  * Debugger PIN: 495-998-292
+[ 2024-07-19 21:00:09,452 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2024 21:00:09] "GET / HTTP/1.1" 200 -
+[ 2024-07-19 21:00:09,714 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2024 21:00:09] "GET / HTTP/1.1" 200 -
+[ 2024-07-19 21:00:09,827 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2024 21:00:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-07-19 21:00:38,047 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2024 21:00:38] "GET /predict HTTP/1.1" 200 -
+[ 2024-07-19 21:00:38,261 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2024 21:00:38] "GET /predict HTTP/1.1" 200 -

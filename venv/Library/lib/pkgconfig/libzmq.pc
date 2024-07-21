@@ -1,0 +1,12 @@
+prefix=d:/diamond price/venv/Library
+exec_prefix=d:/diamond price/venv/Library
+libdir=d:/diamond price/venv/Library/lib
+includedir=d:/diamond price/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.4
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 
